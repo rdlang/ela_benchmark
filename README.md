@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4539080.svg)](https://doi.org/10.5281/zenodo.4539080)
+
 # ela_benchmark
 Single-objective boundary-constrained optimization benchmark suite based on the results from "An Exploratory Landscape Analysis Based Benchmark Suite" by Lang and Engelbrecht
 
